@@ -37,8 +37,7 @@ python student_record_manager.py
 - Writing reusable functions.
 - Building menu-driven programs using loops.
 - Working with conditional statements.
-- Initializing a Git repository.
-- Making commits and pushing projects to GitHub.
+
 
 ## Future Improvements
 
