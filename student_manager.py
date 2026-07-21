@@ -1,13 +1,3 @@
-# ===== Student Record Manager =====
-
-# 1. Add Student
-# 2. Search Student
-# 3. Update Marks
-# 4. Delete Student
-# 5. Show All Students
-# 6. Exit
-
-# Choose an option:
 
 def add_student():
     student_name=input("Enter student name: ")
